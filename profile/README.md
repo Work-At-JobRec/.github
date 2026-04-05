@@ -8,6 +8,10 @@ Luna Brown:
 - role: developer
 - likes: rhythm games, tabletop role playing games, autumn
 
+Pranav Putta:
+- role: developer
+- likes: sports, video games, traveling
+
 <!--
 
 **Here are some ideas to get you started:**
