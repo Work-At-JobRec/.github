@@ -15,8 +15,12 @@ Pranav Putta:
 Luke McCartney:
 - role: developer
 - likes: world of warcraft, virtual reality, running
-<!--
 
+
+Sharvari Deshpande: 
+- role: developer
+- likes: spending time with friends, running, watching movies
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
