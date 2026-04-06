@@ -12,6 +12,9 @@ Pranav Putta:
 - role: developer
 - likes: sports, video games, traveling
 
+Luke McCartney:
+- role: developer
+- likes: world of warcraft, virtual reality, running
 <!--
 
 **Here are some ideas to get you started:**
