@@ -7,3 +7,8 @@ The official home of the team taking your job search to the next level. Apply sm
 Luna Brown:
 - role: developer
 - likes: rhythm games, tabletop role playing games, autumn
+
+Luke McCartney:
+
+- role: developer
+- likes: world of warcraft, virtual reality, running
